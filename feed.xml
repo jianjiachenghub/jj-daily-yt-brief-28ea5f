@@ -6,7 +6,7 @@
     <atom:link href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 17 Oct 2026 17:06:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:06:17 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -21,9 +21,9 @@
       <description>2026-10-17 X 精选：Claude Code 约九成代码由 Claude 自己写、Anthropic 内部 agent 工时已是员工的六倍；特斯拉新 Roadster 参数；纳指一百创去年四月以来最大周跌幅，CoreWeave 债务引发 AI 基建账能否算过来的讨论；另有中国拟将大模型列入出口管制的征求意见稿。内容为 AI 整理自 X 公开帖子，部分为转述未经核实，不构成投资建议。</description>
       <itunes:summary>2026-10-17 X 精选：Claude Code 约九成代码由 Claude 自己写、Anthropic 内部 agent 工时已是员工的六倍；特斯拉新 Roadster 参数；纳指一百创去年四月以来最大周跌幅，CoreWeave 债务引发 AI 基建账能否算过来的讨论；另有中国拟将大模型列入出口管制的征求意见稿。内容为 AI 整理自 X 公开帖子，部分为转述未经核实，不构成投资建议。</itunes:summary>
       <pubDate>Sat, 17 Oct 2026 09:50:00 +0800</pubDate>
-      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-17.mp3" length="4682732" type="audio/mpeg"/>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-17.mp3" length="4386860" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-10-17</guid>
-      <itunes:duration>00:09:45</itunes:duration>
+      <itunes:duration>00:09:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
