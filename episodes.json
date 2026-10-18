@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-18",
+  "title": "2026-10-18 X 精选",
+  "description": "DeepSeek 周末发布 V4.1-Flash-1017，花叔实测约 5 亿 token、28 元；OpenCode Console 遭蒸馏攻击，约 1.4% 绑定外部密钥的用户受影响。宏观侧美国公债利息支出创纪录 1.36 万亿美元，四大科技 AI 资本开支或达 7500 亿美元。另有 Chollet、Mollick、Addy Osmani 等对 agent 自动化与验证瓶颈的讨论。",
+  "file": "brief-x-2026-10-18.mp3",
+  "length": 4177964,
+  "duration": "00:08:42",
+  "pubDate": "Sun, 18 Oct 2026 09:50:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-17",
   "title": "2026-10-17 X 精选",
   "description": "2026-10-17 X 精选：Claude Code 约九成代码由 Claude 自己写、Anthropic 内部 agent 工时已是员工的六倍；特斯拉新 Roadster 参数；纳指一百创去年四月以来最大周跌幅，CoreWeave 债务引发 AI 基建账能否算过来的讨论；另有中国拟将大模型列入出口管制的征求意见稿。内容为 AI 整理自 X 公开帖子，部分为转述未经核实，不构成投资建议。",
