@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 14:57:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:29:55 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -17,6 +17,20 @@
     <image><url>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg</url><title>Jiacheng 每日财经与政经简报</title><link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link></image>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:category text="News"/>
+    <item>
+      <title>2026-10-19 X 精选</title>
+      <itunes:title>2026-10-19 X 精选</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>今日精选覆盖 Anthropic 公共收益基金、Mollick 对 token 结构与产品基建的观察、花叔开源 Huashu-motion 与 Claude Code 缓存技巧、OpenCode 自建 DeepSeek 推理及持续攻防，以及 SemiAnalysis 对 GLM 5.3 后训练的拆解。投资侧聚焦「黑色星期一」噪音与智能手机、购房、家庭债务等冷数据，并讨论 neocloud 融资错配；商业与工程侧包括付费墙对 AI 不可见、earn-out 陷阱、token KPI 与远程部署翻车。</description>
+      <itunes:summary>今日精选覆盖 Anthropic 公共收益基金、Mollick 对 token 结构与产品基建的观察、花叔开源 Huashu-motion 与 Claude Code 缓存技巧、OpenCode 自建 DeepSeek 推理及持续攻防，以及 SemiAnalysis 对 GLM 5.3 后训练的拆解。投资侧聚焦「黑色星期一」噪音与智能手机、购房、家庭债务等冷数据，并讨论 neocloud 融资错配；商业与工程侧包括付费墙对 AI 不可见、earn-out 陷阱、token KPI 与远程部署翻车。</itunes:summary>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-19.mp3" length="5741036" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-x-2026-10-19</guid>
+      <itunes:duration>00:11:58</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>2026-10-18 X 精选</title>
       <itunes:title>2026-10-18 X 精选</itunes:title>

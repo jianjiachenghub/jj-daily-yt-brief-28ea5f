@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-19",
+  "title": "2026-10-19 X 精选",
+  "description": "今日精选覆盖 Anthropic 公共收益基金、Mollick 对 token 结构与产品基建的观察、花叔开源 Huashu-motion 与 Claude Code 缓存技巧、OpenCode 自建 DeepSeek 推理及持续攻防，以及 SemiAnalysis 对 GLM 5.3 后训练的拆解。投资侧聚焦「黑色星期一」噪音与智能手机、购房、家庭债务等冷数据，并讨论 neocloud 融资错配；商业与工程侧包括付费墙对 AI 不可见、earn-out 陷阱、token KPI 与远程部署翻车。",
+  "file": "brief-x-2026-10-19.mp3",
+  "length": 5741036,
+  "duration": "00:11:58",
+  "pubDate": "Mon, 19 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-18",
   "title": "2026-10-18 X 精选",
   "description": "DeepSeek 周末发布 V4.1-Flash-1017，花叔实测约 5 亿 token、28 元；OpenCode Console 遭蒸馏攻击，约 1.4% 绑定外部密钥的用户受影响。宏观侧美国公债利息支出创纪录 1.36 万亿美元，四大科技 AI 资本开支或达 7500 亿美元。另有 Chollet、Mollick、Addy Osmani 等对 agent 自动化与验证瓶颈的讨论。",
