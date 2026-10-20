@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 09:28:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:28:21 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -17,6 +17,20 @@
     <image><url>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg</url><title>Jiacheng 每日财经与政经简报</title><link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link></image>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:category text="News"/>
+    <item>
+      <title>2026-10-20 X 精选</title>
+      <itunes:title>2026-10-20 X 精选</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>今日精选聚焦 Anthropic 上市前的连锁消息：传闻中更会揣摩意图的新模型、OpenAI 抢在其 IPO 前融资约 300 亿美元，以及网易 LobsterAI 办公 Agent 报告里缓存价格造成的七倍成本差。还有 OpenAI 老语言迁移能力、Meta 开源可本地运行的 Muse Glimmer、腾讯开源 Octop 与 Vercel 开源 libfx 产物生成器。投资侧关注美股保证金债务占 GDP 创纪录；商业与工程侧包括 AI 催收员、Agent 定价逻辑、Omarchy 的 Agent 自动 QA 与 Bun 的 AOT 尝试。</description>
+      <itunes:summary>今日精选聚焦 Anthropic 上市前的连锁消息：传闻中更会揣摩意图的新模型、OpenAI 抢在其 IPO 前融资约 300 亿美元，以及网易 LobsterAI 办公 Agent 报告里缓存价格造成的七倍成本差。还有 OpenAI 老语言迁移能力、Meta 开源可本地运行的 Muse Glimmer、腾讯开源 Octop 与 Vercel 开源 libfx 产物生成器。投资侧关注美股保证金债务占 GDP 创纪录；商业与工程侧包括 AI 催收员、Agent 定价逻辑、Omarchy 的 Agent 自动 QA 与 Bun 的 AOT 尝试。</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-20.mp3" length="5287532" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-x-2026-10-20</guid>
+      <itunes:duration>00:11:01</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>2026-10-19 X 精选</title>
       <itunes:title>2026-10-19 X 精选</itunes:title>

@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-20",
+  "title": "2026-10-20 X 精选",
+  "description": "今日精选聚焦 Anthropic 上市前的连锁消息：传闻中更会揣摩意图的新模型、OpenAI 抢在其 IPO 前融资约 300 亿美元，以及网易 LobsterAI 办公 Agent 报告里缓存价格造成的七倍成本差。还有 OpenAI 老语言迁移能力、Meta 开源可本地运行的 Muse Glimmer、腾讯开源 Octop 与 Vercel 开源 libfx 产物生成器。投资侧关注美股保证金债务占 GDP 创纪录；商业与工程侧包括 AI 催收员、Agent 定价逻辑、Omarchy 的 Agent 自动 QA 与 Bun 的 AOT 尝试。",
+  "file": "brief-x-2026-10-20.mp3",
+  "length": 5287532,
+  "duration": "00:11:01",
+  "pubDate": "Tue, 20 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-19",
   "title": "2026-10-19 X 精选",
   "description": "今日精选覆盖 Anthropic 公共收益基金、Mollick 对 token 结构与产品基建的观察、花叔开源 Huashu-motion 与 Claude Code 缓存技巧、OpenCode 自建 DeepSeek 推理及持续攻防，以及 SemiAnalysis 对 GLM 5.3 后训练的拆解。投资侧聚焦「黑色星期一」噪音与智能手机、购房、家庭债务等冷数据，并讨论 neocloud 融资错配；商业与工程侧包括付费墙对 AI 不可见、earn-out 陷阱、token KPI 与远程部署翻车。",
