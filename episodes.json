@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-21",
+  "title": "2026-10-21 X 精选",
+  "description": "DeepSeek 开源生产级推理框架 DeepInfer，知乎披露单集群日处理 155 万亿 token；英伟达开源机器人数据模型 Flora，OpenAI 收购 Orchestra Bio、Madry 回归负责安全。SpaceX 首次盈利并与特斯拉讨论合并，奈飞大跌，Salesforce 收购 Braze。另有 Vanta 吃下 token 成本的定价思路，以及 Agent 验证、持久化等工程实践。",
+  "file": "brief-x-2026-10-21.mp3",
+  "length": 4342508,
+  "duration": "00:09:03",
+  "pubDate": "Wed, 21 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-20",
   "title": "2026-10-20 X 精选",
   "description": "今日精选聚焦 Anthropic 上市前的连锁消息：传闻中更会揣摩意图的新模型、OpenAI 抢在其 IPO 前融资约 300 亿美元，以及网易 LobsterAI 办公 Agent 报告里缓存价格造成的七倍成本差。还有 OpenAI 老语言迁移能力、Meta 开源可本地运行的 Muse Glimmer、腾讯开源 Octop 与 Vercel 开源 libfx 产物生成器。投资侧关注美股保证金债务占 GDP 创纪录；商业与工程侧包括 AI 催收员、Agent 定价逻辑、Omarchy 的 Agent 自动 QA 与 Bun 的 AOT 尝试。",
