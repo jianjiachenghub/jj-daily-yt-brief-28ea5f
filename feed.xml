@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 09:18:38 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:24:12 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -17,6 +17,20 @@
     <image><url>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg</url><title>Jiacheng 每日财经与政经简报</title><link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link></image>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:category text="News"/>
+    <item>
+      <title>2026-10-22 X 精选</title>
+      <itunes:title>2026-10-22 X 精选</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>OpenAI 用 AI 发现 PHP 引擎严重漏洞 PHP2Shell，eMudhra 弱私钥、Railway 密钥泄露、GitLab 与 Node.js 高危漏洞接连出现，AI 攻防进入新阶段。Anthropic 推出主动型助理 Claude Duet，宝玉对比四大公司云端助理。Meta 三季报首次负现金流并发行无投票权股，特斯拉现金流超预期，AI 公司债创纪录。另有 Vanta 创始人谈增长与毛利、Will Larson 谈工程管理的未来。</description>
+      <itunes:summary>OpenAI 用 AI 发现 PHP 引擎严重漏洞 PHP2Shell，eMudhra 弱私钥、Railway 密钥泄露、GitLab 与 Node.js 高危漏洞接连出现，AI 攻防进入新阶段。Anthropic 推出主动型助理 Claude Duet，宝玉对比四大公司云端助理。Meta 三季报首次负现金流并发行无投票权股，特斯拉现金流超预期，AI 公司债创纪录。另有 Vanta 创始人谈增长与毛利、Will Larson 谈工程管理的未来。</itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-22.mp3" length="5165612" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-x-2026-10-22</guid>
+      <itunes:duration>00:10:46</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>2026-10-21 X 精选</title>
       <itunes:title>2026-10-21 X 精选</itunes:title>

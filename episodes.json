@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-22",
+  "title": "2026-10-22 X 精选",
+  "description": "OpenAI 用 AI 发现 PHP 引擎严重漏洞 PHP2Shell，eMudhra 弱私钥、Railway 密钥泄露、GitLab 与 Node.js 高危漏洞接连出现，AI 攻防进入新阶段。Anthropic 推出主动型助理 Claude Duet，宝玉对比四大公司云端助理。Meta 三季报首次负现金流并发行无投票权股，特斯拉现金流超预期，AI 公司债创纪录。另有 Vanta 创始人谈增长与毛利、Will Larson 谈工程管理的未来。",
+  "file": "brief-x-2026-10-22.mp3",
+  "length": 5165612,
+  "duration": "00:10:46",
+  "pubDate": "Thu, 22 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-21",
   "title": "2026-10-21 X 精选",
   "description": "DeepSeek 开源生产级推理框架 DeepInfer，知乎披露单集群日处理 155 万亿 token；英伟达开源机器人数据模型 Flora，OpenAI 收购 Orchestra Bio、Madry 回归负责安全。SpaceX 首次盈利并与特斯拉讨论合并，奈飞大跌，Salesforce 收购 Braze。另有 Vanta 吃下 token 成本的定价思路，以及 Agent 验证、持久化等工程实践。",
