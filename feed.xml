@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 08:24:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:22:48 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -27,6 +27,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-22.mp3" length="5165612" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-10-22</guid>
       <itunes:duration>00:10:46</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-10-22 每日简报</title>
+      <itunes:title>2026-10-22 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>特斯拉三季度营业利润腰斩，但自由现金流意外转正到15亿美元，马斯克称与SpaceX合并不应视为确定；Meta营收增长26%、指引超预期，泛林指引平淡盘后大跌。美股在SpaceX和超微电脑带动下反弹，今天SpaceX约13亿股解禁。另有李录谈中国如何跨越中等收入陷阱、社保基金会原副理事长王文灵被双开等话题。</description>
+      <itunes:summary>特斯拉三季度营业利润腰斩，但自由现金流意外转正到15亿美元，马斯克称与SpaceX合并不应视为确定；Meta营收增长26%、指引超预期，泛林指引平淡盘后大跌。美股在SpaceX和超微电脑带动下反弹，今天SpaceX约13亿股解禁。另有李录谈中国如何跨越中等收入陷阱、社保基金会原副理事长王文灵被双开等话题。</itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-10-22.mp3" length="5098988" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-10-22</guid>
+      <itunes:duration>00:10:37</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
