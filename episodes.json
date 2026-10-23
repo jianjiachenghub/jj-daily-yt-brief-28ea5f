@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-23",
+  "title": "2026-10-23 X 精选",
+  "description": "Claude 下周起默认开启自动模式，Anthropic 把 Agent Skills 捐给 Agentic AI 基金会，Claude Code 作者 Boris Cherny 分享五条实战原则。SpaceX 谋求 8 万个基站站点、筹划成为美国第四大运营商；纳指单日跌 2.9%，半导体杠杆 ETF 暴跌。以上为信息整理，不构成投资建议。",
+  "file": "brief-x-2026-10-23.mp3",
+  "length": 5454572,
+  "duration": "00:11:22",
+  "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-22",
   "title": "2026-10-22 X 精选",
   "description": "OpenAI 用 AI 发现 PHP 引擎严重漏洞 PHP2Shell，eMudhra 弱私钥、Railway 密钥泄露、GitLab 与 Node.js 高危漏洞接连出现，AI 攻防进入新阶段。Anthropic 推出主动型助理 Claude Duet，宝玉对比四大公司云端助理。Meta 三季报首次负现金流并发行无投票权股，特斯拉现金流超预期，AI 公司债创纪录。另有 Vanta 创始人谈增长与毛利、Will Larson 谈工程管理的未来。",
