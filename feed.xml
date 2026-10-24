@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 08:24:08 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:20:21 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -27,6 +27,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-24.mp3" length="5463980" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-10-24</guid>
       <itunes:duration>00:11:23</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-10-24 每日简报</title>
+      <itunes:title>2026-10-24 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>周五美股弱反抽，道指跌1.23%，油价因伊朗威胁逼近4月以来高位，OpenAI融资遇冷、目标估值下调到约1.25万亿美元。对冲基金空头仓位创五年新高，下周美联储议息和谷歌、微软、亚马逊财报是关键窗口。政经方面，五中全会前夕夏林茂被查、人大常委会议程引发解读，西藏那曲7.0级地震至少16人遇难。</description>
+      <itunes:summary>周五美股弱反抽，道指跌1.23%，油价因伊朗威胁逼近4月以来高位，OpenAI融资遇冷、目标估值下调到约1.25万亿美元。对冲基金空头仓位创五年新高，下周美联储议息和谷歌、微软、亚马逊财报是关键窗口。政经方面，五中全会前夕夏林茂被查、人大常委会议程引发解读，西藏那曲7.0级地震至少16人遇难。</itunes:summary>
+      <pubDate>Sat, 24 Oct 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-10-24.mp3" length="4363052" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-10-24</guid>
+      <itunes:duration>00:09:05</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
