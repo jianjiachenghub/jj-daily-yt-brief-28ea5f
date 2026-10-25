@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 08:19:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:25:58 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -27,6 +27,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-25.mp3" length="4402220" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-10-25</guid>
       <itunes:duration>00:09:10</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-10-25 每日简报</title>
+      <itunes:title>2026-10-25 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>周末休市。路透称新型云算力空头账面利润约60亿美元，石记拆到CoreWeave空头占比约23.7%，并钉死下周FOMC与谷歌、微软、亚马逊财报日程；视野点名OpenAI估值下调与亚马逊停建数据中心。对照a16z访谈，亚马逊CEO称CapEx约2200亿美元仍跟不上需求。政经侧江峰视界围绕五中军委补人做大量未证实推演；黄仁勋柏林GTC与德国总理对话强调“AI是制造业”、中国制造+计算机双重优势。</description>
+      <itunes:summary>周末休市。路透称新型云算力空头账面利润约60亿美元，石记拆到CoreWeave空头占比约23.7%，并钉死下周FOMC与谷歌、微软、亚马逊财报日程；视野点名OpenAI估值下调与亚马逊停建数据中心。对照a16z访谈，亚马逊CEO称CapEx约2200亿美元仍跟不上需求。政经侧江峰视界围绕五中军委补人做大量未证实推演；黄仁勋柏林GTC与德国总理对话强调“AI是制造业”、中国制造+计算机双重优势。</itunes:summary>
+      <pubDate>Sun, 25 Oct 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-10-25.mp3" length="5856428" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-10-25</guid>
+      <itunes:duration>00:12:12</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
