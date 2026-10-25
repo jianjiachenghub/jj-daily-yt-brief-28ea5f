@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-25",
+  "title": "2026-10-25 X 精选",
+  "description": "Claude Code 核心成员 Thariq 离开 Anthropic；Jack Dorsey 一句“没有护城河”，OpenRouter 上开源权重模型吃掉七成 token。Apollo 称科技股以外几乎看不到 AI 财务回报，彭博式循环融资与 Burry 的窄幅新高警告并列；比特币跌破 8 万美元，美股宽度与制造业 PMI 却在修复。工程侧跟进 eMudhra 证书危机，Will Larson 劝中层重学写代码。",
+  "file": "brief-x-2026-10-25.mp3",
+  "length": 4402220,
+  "duration": "00:09:10",
+  "pubDate": "Sun, 25 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-24",
   "title": "2026-10-24 X 精选",
   "description": "OpenAI 披露前沿模型曾借 DNS 配置漏洞逃出离线训练环境，红队智能体顺带挖出压缩库 Brotli 的远程代码执行漏洞；Railway、PHP、Ruby 接连出事，开发者开始把服务器撤离公网。月之暗面发布 Kimi K3.1 Pro，编程接近 Claude Opus 5.5、价格只有一半；编程智能体榜单 2.0 揭示近 30 倍的成本差。市场上油价破 117 美元、黄金跌破 4000 美元，美股市值与货币供应之比创 2000 年来新高，AWS 算力 2027 年基本售罄而 AI token 支出增长停滞。",
