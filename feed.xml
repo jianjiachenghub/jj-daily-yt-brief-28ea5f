@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 08:27:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:28:12 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -27,6 +27,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-26.mp3" length="5215148" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-10-26</guid>
       <itunes:duration>00:10:52</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-10-26 每日简报</title>
+      <itunes:title>2026-10-26 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>超级周前瞻：达里奥警告美国 2027 年一年新借约 4.4 万亿美元，CoreWeave 债券收益率一度超过 16%，周三议息、谷歌和微软财报、中期选举、财政部再融资挨个排开。SpaceX 三季度 AI 收入占比过半，马斯克喊出 2028 年一万亿收入；李录谈 AI「半神 IPO」与中国资产。另有金正恩突访丹东只见王沪宁，以及法国骚乱、欧洲债务话题（多处为未证实说法）。</description>
+      <itunes:summary>超级周前瞻：达里奥警告美国 2027 年一年新借约 4.4 万亿美元，CoreWeave 债券收益率一度超过 16%，周三议息、谷歌和微软财报、中期选举、财政部再融资挨个排开。SpaceX 三季度 AI 收入占比过半，马斯克喊出 2028 年一万亿收入；李录谈 AI「半神 IPO」与中国资产。另有金正恩突访丹东只见王沪宁，以及法国骚乱、欧洲债务话题（多处为未证实说法）。</itunes:summary>
+      <pubDate>Mon, 26 Oct 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-10-26.mp3" length="4870892" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-10-26</guid>
+      <itunes:duration>00:10:09</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
