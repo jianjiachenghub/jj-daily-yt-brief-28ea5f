@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-26",
+  "title": "2026-10-26 X 精选",
+  "description": "马斯克称债务市场已对 neocloud 关门，200 多家 GPU 租赁商将大批倒下；OpenAI 用三成折扣从 Anthropic 手里抢走 Replit 和 Rippling 的编程开支。另有 X 上近九成开发者已让 AI 写大部分代码、宫本茂谈 AI 与创作、levelsio 的服务器安全审计、苹果首款触屏 Mac，以及美股期货、韩股和美国楼市动态。",
+  "file": "brief-x-2026-10-26.mp3",
+  "length": 5215148,
+  "duration": "00:10:52",
+  "pubDate": "Mon, 26 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-25",
   "title": "2026-10-25 X 精选",
   "description": "Claude Code 核心成员 Thariq 离开 Anthropic；Jack Dorsey 一句“没有护城河”，OpenRouter 上开源权重模型吃掉七成 token。Apollo 称科技股以外几乎看不到 AI 财务回报，彭博式循环融资与 Burry 的窄幅新高警告并列；比特币跌破 8 万美元，美股宽度与制造业 PMI 却在修复。工程侧跟进 eMudhra 证书危机，Will Larson 劝中层重学写代码。",
