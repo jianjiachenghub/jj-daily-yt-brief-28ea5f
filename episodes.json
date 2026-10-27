@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-27",
+  "title": "2026-10-27 X 精选",
+  "description": "Anthropic 递交招股书拟以 ANT 上市，收入半年 163 亿美元；OpenAI 发布便宜的电脑操作模型 GPT-6.1 Terra，并宣称 AI 推翻“指数时间假设”。另有微软 6 万人自愿离职计划、巴西资产暴跌、Paul Graham 新观点和 Bun、Vercel 等工程动态。",
+  "file": "brief-x-2026-10-27.mp3",
+  "length": 5143340,
+  "duration": "00:10:43",
+  "pubDate": "Tue, 27 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-26",
   "title": "2026-10-26 X 精选",
   "description": "马斯克称债务市场已对 neocloud 关门，200 多家 GPU 租赁商将大批倒下；OpenAI 用三成折扣从 Anthropic 手里抢走 Replit 和 Rippling 的编程开支。另有 X 上近九成开发者已让 AI 写大部分代码、宫本茂谈 AI 与创作、levelsio 的服务器安全审计、苹果首款触屏 Mac，以及美股期货、韩股和美国楼市动态。",
