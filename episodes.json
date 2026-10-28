@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-28",
+  "title": "2026-10-28 X 精选",
+  "description": "Google DeepMind 发布能实时生成声音和对话的世界模型 Genie 4，Anthropic 公布 Claude 参与新药研发并收购一人药企，Axiom 用 AI 核对完人类最长的数学证明。市场上，非 AI 股 10 月大幅跑赢，苹果和纳指的相关性首次转负。工程圈热议 Anthropic 团队取消编程面试，以及上千个智能体协作带来的新难题。",
+  "file": "brief-x-2026-10-28.mp3",
+  "length": 4394924,
+  "duration": "00:09:09",
+  "pubDate": "Wed, 28 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-27",
   "title": "2026-10-27 X 精选",
   "description": "Anthropic 递交招股书拟以 ANT 上市，收入半年 163 亿美元；OpenAI 发布便宜的电脑操作模型 GPT-6.1 Terra，并宣称 AI 推翻“指数时间假设”。另有微软 6 万人自愿离职计划、巴西资产暴跌、Paul Graham 新观点和 Bun、Vercel 等工程动态。",
