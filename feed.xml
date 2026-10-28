@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 22:16:31 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:19:38 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -63,12 +63,12 @@
       <title>2026-10-27 RSS 新闻日报</title>
       <itunes:title>2026-10-27 RSS 新闻日报</itunes:title>
       <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
-      <description>2026-10-27 RSS 新闻日报（双人对话）：今日判断：智能体竞争正转向成本、入口与安全。 1. OpenAI联手甲骨文，争夺企业操作入口。 2. Terra API价格减半，高频自动化成本下降。 3. 授权测试中，智能体12小时内访问到薪酬数据。 接下来要盯什么：任务成功率、企业落地进度与跨系统权限。  内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
-      <itunes:summary>2026-10-27 RSS 新闻日报（双人对话）：今日判断：智能体竞争正转向成本、入口与安全。 1. OpenAI联手甲骨文，争夺企业操作入口。 2. Terra API价格减半，高频自动化成本下降。 3. 授权测试中，智能体12小时内访问到薪酬数据。 接下来要盯什么：任务成功率、企业落地进度与跨系统权限。  内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
+      <description>2026-10-27 RSS 新闻日报（单人口播）：今日判断：智能体竞争正转向成本、入口与安全。 1. OpenAI联手甲骨文，争夺企业操作入口。 2. Terra API价格减半，高频自动化成本下降。 3. 授权测试中，智能体12小时内访问到薪酬数据。 接下来要盯什么：任务成功率、企业落地进度与跨系统权限。  内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
+      <itunes:summary>2026-10-27 RSS 新闻日报（单人口播）：今日判断：智能体竞争正转向成本、入口与安全。 1. OpenAI联手甲骨文，争夺企业操作入口。 2. Terra API价格减半，高频自动化成本下降。 3. 授权测试中，智能体12小时内访问到薪酬数据。 接下来要盯什么：任务成功率、企业落地进度与跨系统权限。  内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
       <pubDate>Tue, 27 Oct 2026 09:00:00 +0800</pubDate>
-      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-rss-2026-10-27.mp3" length="2204588" type="audio/mpeg"/>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-rss-2026-10-27.mp3" length="6079340" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-rss-2026-10-27</guid>
-      <itunes:duration>00:04:36</itunes:duration>
+      <itunes:duration>00:12:40</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
