@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-29",
+  "title": "2026-10-29 X 精选",
+  "description": "Google 发布 Gemini 4 Carbon 重回大模型综合榜第一，新版评测显示开源模型差距拉大；Claude Opus 5.5 让 AI 能做出好玩的游戏。字节红果日活 1.68 亿引发“字节时间”讨论。Alphabet 云业务翻倍但自由现金流转负，美联储按兵不动；另有 OpenAI 面试全流程、GitHub Copilot Fusion 和 Vercel CI。",
+  "file": "brief-x-2026-10-29.mp3",
+  "length": 6525356,
+  "duration": "00:13:36",
+  "pubDate": "Thu, 29 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-28",
   "title": "2026-10-28 X 精选",
   "description": "Google DeepMind 发布能实时生成声音和对话的世界模型 Genie 4，Anthropic 公布 Claude 参与新药研发并收购一人药企，Axiom 用 AI 核对完人类最长的数学证明。市场上，非 AI 股 10 月大幅跑赢，苹果和纳指的相关性首次转负。工程圈热议 Anthropic 团队取消编程面试，以及上千个智能体协作带来的新难题。",

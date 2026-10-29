@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 23:19:38 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:22:23 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -17,6 +17,20 @@
     <image><url>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg</url><title>Jiacheng 每日财经与政经简报</title><link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link></image>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:category text="News"/>
+    <item>
+      <title>2026-10-29 X 精选</title>
+      <itunes:title>2026-10-29 X 精选</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>Google 发布 Gemini 4 Carbon 重回大模型综合榜第一，新版评测显示开源模型差距拉大；Claude Opus 5.5 让 AI 能做出好玩的游戏。字节红果日活 1.68 亿引发“字节时间”讨论。Alphabet 云业务翻倍但自由现金流转负，美联储按兵不动；另有 OpenAI 面试全流程、GitHub Copilot Fusion 和 Vercel CI。</description>
+      <itunes:summary>Google 发布 Gemini 4 Carbon 重回大模型综合榜第一，新版评测显示开源模型差距拉大；Claude Opus 5.5 让 AI 能做出好玩的游戏。字节红果日活 1.68 亿引发“字节时间”讨论。Alphabet 云业务翻倍但自由现金流转负，美联储按兵不动；另有 OpenAI 面试全流程、GitHub Copilot Fusion 和 Vercel CI。</itunes:summary>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-29.mp3" length="6525356" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-x-2026-10-29</guid>
+      <itunes:duration>00:13:36</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>2026-10-28 X 精选</title>
       <itunes:title>2026-10-28 X 精选</itunes:title>
