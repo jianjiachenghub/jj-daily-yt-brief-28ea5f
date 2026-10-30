@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-30",
+  "title": "2026-10-30 X 精选",
+  "description": "今日看点：OpenAI 扩大前沿模型训练监控并更新 Model Spec；Anthropic 推对话自我评估并扩大科研计划；币安疑似史上最大盗币、稳定币大额冻结；英伟达洽谈为 Anthropic 相关云与数据中心提供信贷担保；评测与工作流从榜单分数转向真实任务能否做完。\n信息不构成投资建议。",
+  "file": "brief-x-2026-10-30.mp3",
+  "length": 4790060,
+  "duration": "00:09:59",
+  "pubDate": "Fri, 30 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-29",
   "title": "2026-10-29 X 精选",
   "description": "Google 发布 Gemini 4 Carbon 重回大模型综合榜第一，新版评测显示开源模型差距拉大；Claude Opus 5.5 让 AI 能做出好玩的游戏。字节红果日活 1.68 亿引发“字节时间”讨论。Alphabet 云业务翻倍但自由现金流转负，美联储按兵不动；另有 OpenAI 面试全流程、GitHub Copilot Fusion 和 Vercel CI。",
