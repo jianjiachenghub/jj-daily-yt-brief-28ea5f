@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 09:08:37 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:25:17 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -29,6 +29,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-30.mp3" length="4790060" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-10-30</guid>
       <itunes:duration>00:09:59</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-10-30 每日简报</title>
+      <itunes:title>2026-10-30 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>亚马逊盘后因资本开支与自由现金流承压大跌，AWS 增速却创近五年最快；谷歌创纪录单日回撤、微软拟发债为 AI 融资。叠加 GDP 加快与 PCE 回升，市场把定价重心从增速转向现金流。英特尔指引暴雷、闪迪超预期，软件高估值股继续承压。</description>
+      <itunes:summary>亚马逊盘后因资本开支与自由现金流承压大跌，AWS 增速却创近五年最快；谷歌创纪录单日回撤、微软拟发债为 AI 融资。叠加 GDP 加快与 PCE 回升，市场把定价重心从增速转向现金流。英特尔指引暴雷、闪迪超预期，软件高估值股继续承压。</itunes:summary>
+      <pubDate>Fri, 30 Oct 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-10-30.mp3" length="5497964" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-10-30</guid>
+      <itunes:duration>00:11:27</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
