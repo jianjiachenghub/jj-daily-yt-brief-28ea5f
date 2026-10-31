@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-10-31",
+  "title": "2026-10-31 X 精选",
+  "description": "Alphabet、亚马逊、英特尔财报后美股科技股连跌，市场开始审视 AI 的资本开支账单；币安被盗约 63 亿美元创加密史纪录。AI 产品侧，Claude Ultra 取消 5 小时限额、苹果国行 Apple Intelligence 牵手千问、谷歌 TPU 在太空完成首次问答。另有 Cursor 插件安全事件、Meta JiTTests、Factory Droid 1.0 与腾讯 Hy Memory 等工程动态。",
+  "file": "brief-x-2026-10-31.mp3",
+  "length": 5283116,
+  "duration": "00:11:00",
+  "pubDate": "Sat, 31 Oct 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-10-30",
   "title": "2026-10-30 X 精选",
   "description": "今日看点：OpenAI 扩大前沿模型训练监控并更新 Model Spec；Anthropic 推对话自我评估并扩大科研计划；币安疑似史上最大盗币、稳定币大额冻结；英伟达洽谈为 Anthropic 相关云与数据中心提供信贷担保；评测与工作流从榜单分数转向真实任务能否做完。\n信息不构成投资建议。",

@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 09:25:17 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:30:24 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -17,6 +17,20 @@
     <image><url>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg</url><title>Jiacheng 每日财经与政经简报</title><link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link></image>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:category text="News"/>
+    <item>
+      <title>2026-10-31 X 精选</title>
+      <itunes:title>2026-10-31 X 精选</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>Alphabet、亚马逊、英特尔财报后美股科技股连跌，市场开始审视 AI 的资本开支账单；币安被盗约 63 亿美元创加密史纪录。AI 产品侧，Claude Ultra 取消 5 小时限额、苹果国行 Apple Intelligence 牵手千问、谷歌 TPU 在太空完成首次问答。另有 Cursor 插件安全事件、Meta JiTTests、Factory Droid 1.0 与腾讯 Hy Memory 等工程动态。</description>
+      <itunes:summary>Alphabet、亚马逊、英特尔财报后美股科技股连跌，市场开始审视 AI 的资本开支账单；币安被盗约 63 亿美元创加密史纪录。AI 产品侧，Claude Ultra 取消 5 小时限额、苹果国行 Apple Intelligence 牵手千问、谷歌 TPU 在太空完成首次问答。另有 Cursor 插件安全事件、Meta JiTTests、Factory Droid 1.0 与腾讯 Hy Memory 等工程动态。</itunes:summary>
+      <pubDate>Sat, 31 Oct 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-31.mp3" length="5283116" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-x-2026-10-31</guid>
+      <itunes:duration>00:11:00</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>2026-10-30 X 精选</title>
       <itunes:title>2026-10-30 X 精选</itunes:title>
