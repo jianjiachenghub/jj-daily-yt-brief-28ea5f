@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 09:03:25 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:22:13 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -27,6 +27,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-10-31.mp3" length="5283116" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-10-31</guid>
       <itunes:duration>00:11:00</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-10-31 每日简报</title>
+      <itunes:title>2026-10-31 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>英特尔财报后单日跌近三成，拖累费城半导体指数跌7.2%、纳指100十月累计跌6.6%；亚马逊AWS增长39%但自由现金流为负，谷歌搜索不及预期，AI资本开支回报担忧集中爆发。币安被盗约59–63亿美元，创加密史纪录；日本央行释放12月加息信号。五中全会公报列出34名被处分者，出席率创1978年以来新低。</description>
+      <itunes:summary>英特尔财报后单日跌近三成，拖累费城半导体指数跌7.2%、纳指100十月累计跌6.6%；亚马逊AWS增长39%但自由现金流为负，谷歌搜索不及预期，AI资本开支回报担忧集中爆发。币安被盗约59–63亿美元，创加密史纪录；日本央行释放12月加息信号。五中全会公报列出34名被处分者，出席率创1978年以来新低。</itunes:summary>
+      <pubDate>Sat, 31 Oct 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-10-31.mp3" length="4722860" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-10-31</guid>
+      <itunes:duration>00:09:50</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
