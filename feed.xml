@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Sun, 01 Nov 2026 09:18:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:20:57 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -17,6 +17,20 @@
     <image><url>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg</url><title>Jiacheng 每日财经与政经简报</title><link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link></image>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:category text="News"/>
+    <item>
+      <title>2026-11-02 X 精选</title>
+      <itunes:title>2026-11-02 X 精选</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>Karpathy 两小时做出 HackerTube，Levels 用 Opus 自动剪 vlog，FreeToken 把大模型塞回游戏显卡；另一边是美国 AI 投资创纪录、电网缺口约 70 吉瓦、Anthropic 用封号护代际差。本期还聊到判断力被「蒸发」、国行 Apple 智能首批功能，以及 Stripe 式 Agent 权限。</description>
+      <itunes:summary>Karpathy 两小时做出 HackerTube，Levels 用 Opus 自动剪 vlog，FreeToken 把大模型塞回游戏显卡；另一边是美国 AI 投资创纪录、电网缺口约 70 吉瓦、Anthropic 用封号护代际差。本期还聊到判断力被「蒸发」、国行 Apple 智能首批功能，以及 Stripe 式 Agent 权限。</itunes:summary>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-11-02.mp3" length="4960940" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-x-2026-11-02</guid>
+      <itunes:duration>00:10:20</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>2026-11-01 X 精选</title>
       <itunes:title>2026-11-01 X 精选</itunes:title>

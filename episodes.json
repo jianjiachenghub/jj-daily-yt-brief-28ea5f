@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-02",
+  "title": "2026-11-02 X 精选",
+  "description": "Karpathy 两小时做出 HackerTube，Levels 用 Opus 自动剪 vlog，FreeToken 把大模型塞回游戏显卡；另一边是美国 AI 投资创纪录、电网缺口约 70 吉瓦、Anthropic 用封号护代际差。本期还聊到判断力被「蒸发」、国行 Apple 智能首批功能，以及 Stripe 式 Agent 权限。",
+  "file": "brief-x-2026-11-02.mp3",
+  "length": 4960940,
+  "duration": "00:10:20",
+  "pubDate": "Mon, 02 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-01",
   "title": "2026-11-01 X 精选",
   "description": "Token 降价但总账单翻倍、GPU 租金大涨，OpenAI 融资遇冷，Anthropic 招股书细节与博通背书债务。微软 TokenEconomizer、DeepSeek Harness 超级 Agent 原型等省 Token 新工具，安卓助手 Mika 与 Vercel agent-desktop。币安 63 亿被盗归因朝鲜、安全认证失灵，以及美国储蓄率新低。",
