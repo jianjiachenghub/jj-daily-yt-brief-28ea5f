@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-04",
+  "title": "2026-11-04 X 精选",
+  "description": "Anthropic 开源可证明推理系统 FlashProve，OpenAI 把漏洞赏金提到最高 17.2 万美元，Claude Code 产品负责人 Cat Wu 离职。AMD 三季报超预期、四季度指引约 170 亿美元，Shopify 大跌，美国中期选举日 Polymarket 给出 87% 民主党横扫概率。另有 levelsio 用 Claude Code 把开支砍到每月约 300 美元、Canva 重组 22% 岗位，以及 Ghostty 性能优化和 AI 编程助手自我复盘的论文实测。",
+  "file": "brief-x-2026-11-04.mp3",
+  "length": 8122220,
+  "duration": "00:16:55",
+  "pubDate": "Wed, 04 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-03",
   "title": "2026-11-03 X 精选",
   "description": "GPT-6 Astra 直接改写 Qwen 小模型权重、数学正确率涨约六倍；SemiAnalysis 新评测 GDPx 显示最强模型在高价值工作上只拿 12%。Pieter Levels 用 Claude Code 把《战地 1942》反编译上网页，MCP 与 WebMCP 之争升温。美股纳指进入回调，市场同时消化中期选举、杠杆 ETF 狂热和苹果财报。",
