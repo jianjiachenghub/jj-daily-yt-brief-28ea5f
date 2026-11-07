@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 09:12:17 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 09:32:01 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -27,6 +27,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-11-07.mp3" length="4530476" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-11-07</guid>
       <itunes:duration>00:09:26</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-11-07 每日简报</title>
+      <itunes:title>2026-11-07 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>选后第三天美股弱反弹：纳指与费城半导体修复，但情绪仍脆。德州当选州长表态已获许可数据中心可完工，叠加川普继续支持超级智能，监管灭顶叙事松动；10月非农偏强推升加息押注。订阅侧精听娜娜周五复盘与Henry的48小时交易台口述，外加彭博/CNBC英文一手与言究院中文结构稿。</description>
+      <itunes:summary>选后第三天美股弱反弹：纳指与费城半导体修复，但情绪仍脆。德州当选州长表态已获许可数据中心可完工，叠加川普继续支持超级智能，监管灭顶叙事松动；10月非农偏强推升加息押注。订阅侧精听娜娜周五复盘与Henry的48小时交易台口述，外加彭博/CNBC英文一手与言究院中文结构稿。</itunes:summary>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-11-07.mp3" length="4942508" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-11-07</guid>
+      <itunes:duration>00:10:18</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
