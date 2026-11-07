@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-07",
+  "title": "2026-11-07 X 精选",
+  "description": "今日 X 精选：Claude「做梦」整理记忆、OpenAI 湿实验基准 BioBasicsBench、DeepMind 用 Agent 压力测试遗留 RSA；GitHub 与 libghostty 为 Agent/开发者工具换底座。市场侧聚焦微软终止甲骨文算力租约、非农超预期推高十二月加息预期，以及 Anthropic IPO 路演窗口与估值重定价。",
+  "file": "brief-x-2026-11-07.mp3",
+  "length": 4530476,
+  "duration": "00:09:26",
+  "pubDate": "Sat, 07 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-06",
   "title": "2026-11-06 X 精选",
   "description": "纳斯达克创疫情以来最大单日跌幅，AI 资本开支「2027 见顶」叙事升温；同日 OpenAI 发布 GPT-6 Cyber，Claude 上线只读个人理财，Google Omni 1.2 Flash 加长降价，METR 评估 Anthropic 研发加速约翻倍，Cat Wu 加盟 OpenAI。梳理 AI、科技、投资、商业与软件工程精选。",
