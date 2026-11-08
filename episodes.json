@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-08",
+  "title": "2026-11-08 X 精选",
+  "description": "本期 X 精选：Chollet 谈算力只是乘数，谷歌 SLEEP 让模型把知识写进参数，斯坦福实验发现多给 Agent 信息未必更好，DeepSeek V4.1 Flash 走红。\n市场方面，美联储资产负债表重新扩张、美国房贷利率连续七周超过 7%，卡特彼勒订单排到 2030 年；另有 Gergely Orosz 三小时重做 Substack 搜索等软件工程观察。",
+  "file": "brief-x-2026-11-08.mp3",
+  "length": 5035820,
+  "duration": "00:10:29",
+  "pubDate": "Sun, 08 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-07",
   "title": "2026-11-07 X 精选",
   "description": "今日 X 精选：Claude「做梦」整理记忆、OpenAI 湿实验基准 BioBasicsBench、DeepMind 用 Agent 压力测试遗留 RSA；GitHub 与 libghostty 为 Agent/开发者工具换底座。市场侧聚焦微软终止甲骨文算力租约、非农超预期推高十二月加息预期，以及 Anthropic IPO 路演窗口与估值重定价。",
