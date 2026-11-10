@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-10",
+  "title": "2026-11-10 X 精选",
+  "description": "Anthropic 在 IPO 路演首日发布 Claude Fable 5.2 并降价两成，Meta 推出小模型 Muse Ember 抢 agent 小工市场，字节发布 Seedream 5.5。美股大涨，英伟达却因黄仁勋丑闻和股东诉讼逆势下跌。另有 levelsio、Chollet 的创业观点和几条 AI 编程实用技巧。",
+  "file": "brief-x-2026-11-10.mp3",
+  "length": 4482476,
+  "duration": "00:09:20",
+  "pubDate": "Tue, 10 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-09",
   "title": "2026-11-09 X 精选",
   "description": "黄仁勋承认婚外情并配合间谍嫌疑调查，标普期货七分钟摆动约六千五百亿；Anthropic 上市估值预期回落至约一点二万亿。Anthropic 公开科研用法与 Agent「做梦」记忆，DeepSeek Harness 称日活约一百五十四万，OpenAI 预告与 ModRetro 合作。宏观上 M2 与 AI 资本开支加速，商业地产 CMBS 违约创新高。",
