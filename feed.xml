@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 09:03:10 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:30:28 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -27,6 +27,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-11-10.mp3" length="4482476" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-11-10</guid>
       <itunes:duration>00:09:20</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-11-10 每日简报</title>
+      <itunes:title>2026-11-10 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>周一美股走出「大盘暴涨、英伟达独跌」的行情：标普涨约 2.3%、纳指 100 涨约 3.4%、费城半导体涨约 7%，英伟达因黄仁勋婚外情和董事会独立调查下跌约 4%–5%。各频道从芯片走私链、信息披露和治理风险拆解这场风波；油价大跌、今晚 CPI 和 CoreWeave 财报是另外两条主线，Anthropic 也在上市前发布了新模型。</description>
+      <itunes:summary>周一美股走出「大盘暴涨、英伟达独跌」的行情：标普涨约 2.3%、纳指 100 涨约 3.4%、费城半导体涨约 7%，英伟达因黄仁勋婚外情和董事会独立调查下跌约 4%–5%。各频道从芯片走私链、信息披露和治理风险拆解这场风波；油价大跌、今晚 CPI 和 CoreWeave 财报是另外两条主线，Anthropic 也在上市前发布了新模型。</itunes:summary>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-11-10.mp3" length="4810028" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-11-10</guid>
+      <itunes:duration>00:10:01</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
