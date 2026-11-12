@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-12",
+  "title": "2026-11-12 X 精选",
+  "description": "英伟达董事会据报正寻找新 CEO，黄仁勋去留成为市场最大变量；CoreWeave 称需求是产能 10 倍，Anthropic IPO 估值最高约 1.4 万亿美元。Google 推出只做判断的 Gemini Decisions API，DeepMind 用 AI 证明 Signal 协议安全。另有科技就业半年报、Jason Wei 谈人脉、Ro 的二次创业和 Claude Code 省额度技巧。",
+  "file": "brief-x-2026-11-12.mp3",
+  "length": 6230444,
+  "duration": "00:12:59",
+  "pubDate": "Thu, 12 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-11",
   "title": "2026-11-11 X 精选",
   "description": "Google 正式开放 Gemini 4 Carbon，与 Claude Fable 5.2 正面竞争；Claude 新增白板、表格和 Claude Data。美国 10 月 CPI 再超预期，10 年期美债重回 5%，CoreWeave 财报亮眼但烧钱创纪录。另有 Lenny 科技就业报告、Manus 的 AI 面试法和 Mitchell Hashimoto 的「人人推 main」团队实践。以上为信息整理，不构成投资建议。",
