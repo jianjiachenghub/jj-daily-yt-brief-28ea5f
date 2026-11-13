@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-13",
+  "title": "2026-11-13 X 精选",
+  "description": "黄仁勋正式辞去英伟达总裁、CEO 和董事，CFO Colette Kress 任临时 CEO，股价先跌后部分收回；同一天 Google 发布 Gemini 4 Hydrogen，Anthropic 推出可进 Google Meet 的 Claude Meetings。前 OpenAI 研究员 Will DePue 用公开权重里的硬件指纹，称 DeepSeek、Kimi 等模型在被禁的 Blackwell 芯片上训练。美国 10 年期国债收益率升至 5.10%，成屋销售创 16 年新低。以上为信息整理，不构成投资建议。",
+  "file": "brief-x-2026-11-13.mp3",
+  "length": 5090540,
+  "duration": "00:10:36",
+  "pubDate": "Fri, 13 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-12",
   "title": "2026-11-12 X 精选",
   "description": "英伟达董事会据报正寻找新 CEO，黄仁勋去留成为市场最大变量；CoreWeave 称需求是产能 10 倍，Anthropic IPO 估值最高约 1.4 万亿美元。Google 推出只做判断的 Gemini Decisions API，DeepMind 用 AI 证明 Signal 协议安全。另有科技就业半年报、Jason Wei 谈人脉、Ro 的二次创业和 Claude Code 省额度技巧。",
