@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 09:37:25 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:23:31 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -17,6 +17,20 @@
     <image><url>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg</url><title>Jiacheng 每日财经与政经简报</title><link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link></image>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:category text="News"/>
+    <item>
+      <title>2026-11-14 X 精选</title>
+      <itunes:title>2026-11-14 X 精选</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>黄仁勋辞职第二天，股东与员工呼吁董事会不要匆忙换人，关于 Alice Huang 的“间谍”说法也被情报源降了调。英伟达发布开源机器人模型 GR00T 2，Thinking Machines 把 Inkling 2 Small 预训练压到 68 小时，DeepSeek 则把 App 能力拆进 API。宏观上美国 10 月 PPI 同比升至 6.5%，市场计入未来一年约 3.5 次加息；微软 Outlook 宕机约 20 小时后，美国联邦航空管理局又因通信故障下令全美停飞。开源侧 llama.cpp 迎来 1.0，SpaceX 星舰第二次进入地球轨道。以上为信息整理，不构成投资建议。</description>
+      <itunes:summary>黄仁勋辞职第二天，股东与员工呼吁董事会不要匆忙换人，关于 Alice Huang 的“间谍”说法也被情报源降了调。英伟达发布开源机器人模型 GR00T 2，Thinking Machines 把 Inkling 2 Small 预训练压到 68 小时，DeepSeek 则把 App 能力拆进 API。宏观上美国 10 月 PPI 同比升至 6.5%，市场计入未来一年约 3.5 次加息；微软 Outlook 宕机约 20 小时后，美国联邦航空管理局又因通信故障下令全美停飞。开源侧 llama.cpp 迎来 1.0，SpaceX 星舰第二次进入地球轨道。以上为信息整理，不构成投资建议。</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-11-14.mp3" length="5207660" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-x-2026-11-14</guid>
+      <itunes:duration>00:10:51</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>2026-11-13 X 精选</title>
       <itunes:title>2026-11-13 X 精选</itunes:title>

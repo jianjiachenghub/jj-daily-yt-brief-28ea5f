@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-14",
+  "title": "2026-11-14 X 精选",
+  "description": "黄仁勋辞职第二天，股东与员工呼吁董事会不要匆忙换人，关于 Alice Huang 的“间谍”说法也被情报源降了调。英伟达发布开源机器人模型 GR00T 2，Thinking Machines 把 Inkling 2 Small 预训练压到 68 小时，DeepSeek 则把 App 能力拆进 API。宏观上美国 10 月 PPI 同比升至 6.5%，市场计入未来一年约 3.5 次加息；微软 Outlook 宕机约 20 小时后，美国联邦航空管理局又因通信故障下令全美停飞。开源侧 llama.cpp 迎来 1.0，SpaceX 星舰第二次进入地球轨道。以上为信息整理，不构成投资建议。",
+  "file": "brief-x-2026-11-14.mp3",
+  "length": 5207660,
+  "duration": "00:10:51",
+  "pubDate": "Sat, 14 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-13",
   "title": "2026-11-13 X 精选",
   "description": "黄仁勋正式辞去英伟达总裁、CEO 和董事，CFO Colette Kress 任临时 CEO，股价先跌后部分收回；同一天 Google 发布 Gemini 4 Hydrogen，Anthropic 推出可进 Google Meet 的 Claude Meetings。前 OpenAI 研究员 Will DePue 用公开权重里的硬件指纹，称 DeepSeek、Kimi 等模型在被禁的 Blackwell 芯片上训练。美国 10 年期国债收益率升至 5.10%，成屋销售创 16 年新低。以上为信息整理，不构成投资建议。",
