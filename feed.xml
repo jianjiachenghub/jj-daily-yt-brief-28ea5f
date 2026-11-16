@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 08:30:53 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:19:03 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -41,6 +41,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-11-15.mp3" length="5342252" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-11-15</guid>
       <itunes:duration>00:11:08</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-11-15 RSS 新闻日报</title>
+      <itunes:title>2026-11-15 RSS 新闻日报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>2026-11-15 RSS 新闻日报（单人口播）：11月15日｜兑现与约束 今日判断：算力热潮降温，智能体竞争转向交付。 ① 数据中心建设相关股票市值缩水4.2万亿美元。 ② 美国国会推动收紧AI芯片出口规定。 ③ Muse上线代打电话，部分商家挂断AI来电。 接下来要盯什么：算力投资回报、出口规则落地与代办成功率。  内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
+      <itunes:summary>2026-11-15 RSS 新闻日报（单人口播）：11月15日｜兑现与约束 今日判断：算力热潮降温，智能体竞争转向交付。 ① 数据中心建设相关股票市值缩水4.2万亿美元。 ② 美国国会推动收紧AI芯片出口规定。 ③ Muse上线代打电话，部分商家挂断AI来电。 接下来要盯什么：算力投资回报、出口规则落地与代办成功率。  内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-rss-2026-11-15.mp3" length="5123756" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-rss-2026-11-15</guid>
+      <itunes:duration>00:10:40</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
