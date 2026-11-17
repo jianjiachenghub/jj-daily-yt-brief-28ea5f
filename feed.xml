@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 09:27:33 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:33:03 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -27,6 +27,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-11-17.mp3" length="5535980" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-11-17</guid>
       <itunes:duration>00:11:32</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-11-17 每日简报</title>
+      <itunes:title>2026-11-17 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>美国商务部星期一发布临时最终规则，将先进人工智能芯片的限制从实物出口延伸到第三国数据中心的远程调用；英伟达收跌4.12%，标普500连跌第三天。盘面同时消化SemiAnalysis下调2028年及以后加速器资本开支预测，以及国家统计局公布的十月数据：工业仍增、消费和投资明显偏弱。克雷斯任上首次英伟达财报将在今天美国时段发布。</description>
+      <itunes:summary>美国商务部星期一发布临时最终规则，将先进人工智能芯片的限制从实物出口延伸到第三国数据中心的远程调用；英伟达收跌4.12%，标普500连跌第三天。盘面同时消化SemiAnalysis下调2028年及以后加速器资本开支预测，以及国家统计局公布的十月数据：工业仍增、消费和投资明显偏弱。克雷斯任上首次英伟达财报将在今天美国时段发布。</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-11-17.mp3" length="5804204" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-11-17</guid>
+      <itunes:duration>00:12:05</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
