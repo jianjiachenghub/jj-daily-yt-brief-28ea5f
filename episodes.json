@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-18",
+  "title": "2026-11-18 X 精选",
+  "description": "OpenAI 正式推出 GPT-6.2 Astra 与 Sol，官方强调专业任务更强、单任务成本更低，但早期试用反馈并不一边倒。英伟达公布黄仁勋辞职后的首份季报，营收和指引均超预期，同时确认不再向中国出货需许可的 Hopper 数据中心产品。Anthropic 进入上市定价夜，计划周四以代码 ANT 开盘。工程侧则有 Claude Code 的 Code Mode，以及 Floorplan、Stitch、eve 等工具更新。以上为信息整理，不构成投资建议。",
+  "file": "brief-x-2026-11-18.mp3",
+  "length": 6352172,
+  "duration": "00:13:14",
+  "pubDate": "Wed, 18 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-17",
   "title": "2026-11-17 X 精选",
   "description": "阿里巴巴正式上线旗舰模型 Qwen4-Max，Hugging Face 把语言模型推理路由交给 OpenRouter，Claude Code 团队则把“让智能体提交验证证据”写成了工程方法。OpenAI 同时扩大面向科学家的免费开放，并更新医疗机构版 ChatGPT。市场上，英伟达自十月高点已蒸发超过两万亿美元市值，今晚将公布黄仁勋辞职后的首份财报；美国也把芯片管制延伸到了远程租用算力。以上为信息整理，不构成投资建议。",
