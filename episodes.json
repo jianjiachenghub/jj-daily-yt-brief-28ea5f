@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-19",
+  "title": "2026-11-19 X 精选",
+  "description": "谷歌 DeepMind 推出 Gemini 4 Neon，定位在 Carbon 与 Hydrogen 之间，官方强调更快、更便宜的前沿级能力，并已进入 Gemini 应用、Cursor 和 GitHub Copilot。OpenAI 公布内部研究加速数据，智能体已能独立完成近一半中等时长任务，但不同环节差距仍大。Anthropic 将 IPO 定价在每股 83 美元，高于原区间，股票将以代码 ANT 在纳斯达克开盘。工程侧则有谷歌开源 ABFS，以及围绕黑盒编程和智能体优先界面的讨论。以上为信息整理，不构成投资建议。",
+  "file": "brief-x-2026-11-19.mp3",
+  "length": 6483308,
+  "duration": "00:13:30",
+  "pubDate": "Thu, 19 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-18",
   "title": "2026-11-18 X 精选",
   "description": "OpenAI 正式推出 GPT-6.2 Astra 与 Sol，官方强调专业任务更强、单任务成本更低，但早期试用反馈并不一边倒。英伟达公布黄仁勋辞职后的首份季报，营收和指引均超预期，同时确认不再向中国出货需许可的 Hopper 数据中心产品。Anthropic 进入上市定价夜，计划周四以代码 ANT 开盘。工程侧则有 Claude Code 的 Code Mode，以及 Floorplan、Stitch、eve 等工具更新。以上为信息整理，不构成投资建议。",
