@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 08:33:41 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:32:14 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -26,6 +26,20 @@
       <pubDate>Fri, 20 Nov 2026 09:00:00 +0800</pubDate>
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-11-20.mp3" length="5700908" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-11-20</guid>
+      <itunes:duration>00:11:53</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-11-20 每日简报</title>
+      <itunes:title>2026-11-20 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>Anthropic以代码ANT在纳斯达克首日收于97.17美元，较发行价83美元上涨17%，开盘一度高34%，但三大指数均跌逾2%，道指自6月以来首次收在5万点下方。英伟达创52周新低，AMD因Hunterbrook做空报告收跌7.72%；众议院披露商务部批准向中国公司出售逾87.9万颗AI芯片。习近平与特朗普同意制定建设性战略稳定关系行动计划，中美俄三方发表象征性和平宣言，未宣布军控谈判。</description>
+      <itunes:summary>Anthropic以代码ANT在纳斯达克首日收于97.17美元，较发行价83美元上涨17%，开盘一度高34%，但三大指数均跌逾2%，道指自6月以来首次收在5万点下方。英伟达创52周新低，AMD因Hunterbrook做空报告收跌7.72%；众议院披露商务部批准向中国公司出售逾87.9万颗AI芯片。习近平与特朗普同意制定建设性战略稳定关系行动计划，中美俄三方发表象征性和平宣言，未宣布军控谈判。</itunes:summary>
+      <pubDate>Fri, 20 Nov 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-11-20.mp3" length="5701292" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-11-20</guid>
       <itunes:duration>00:11:53</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
