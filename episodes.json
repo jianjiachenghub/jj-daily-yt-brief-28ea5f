@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-20",
+  "title": "2026-11-20 X 精选",
+  "description": "Anthropic 以代码 ANT 在纳斯达克迎来首个交易日，筹资约 813 亿美元，收盘较发行价上涨约 17%，但未能托住美股，道指跌破 5 万点。OpenAI 上线 GPT-Live-1.1 并开始扩大 ChatGPT dots 测试，谷歌把世界模型 Genie 4 开放到 Gemini API。工程方面，Anthropic 分享了 Claude Code 团队的代码审查方法，腾讯则披露 WorkBuddy 日活已超过 1000 万。",
+  "file": "brief-x-2026-11-20.mp3",
+  "length": 5700908,
+  "duration": "00:11:53",
+  "pubDate": "Fri, 20 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-19",
   "title": "2026-11-19 X 精选",
   "description": "谷歌 DeepMind 推出 Gemini 4 Neon，定位在 Carbon 与 Hydrogen 之间，官方强调更快、更便宜的前沿级能力，并已进入 Gemini 应用、Cursor 和 GitHub Copilot。OpenAI 公布内部研究加速数据，智能体已能独立完成近一半中等时长任务，但不同环节差距仍大。Anthropic 将 IPO 定价在每股 83 美元，高于原区间，股票将以代码 ANT 在纳斯达克开盘。工程侧则有谷歌开源 ABFS，以及围绕黑盒编程和智能体优先界面的讨论。以上为信息整理，不构成投资建议。",
