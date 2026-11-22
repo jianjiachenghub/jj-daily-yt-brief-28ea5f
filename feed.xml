@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 08:26:57 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:24:06 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -41,6 +41,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-11-21.mp3" length="5371820" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-11-21</guid>
       <itunes:duration>00:11:11</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-11-21 RSS 新闻日报</title>
+      <itunes:title>2026-11-21 RSS 新闻日报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>2026-11-21 RSS 新闻日报（单人口播）：估值降温，算力变局 今日判断：AI交易进入兑现检验，政策风险抬升。 1. 华尔街AI板块市值蒸发约4万亿美元。 2. 特朗普拟惩罚赴海外建数据中心的美企。 3. 阿里新芯片拟明年一季度量产，称算力为上代三倍。 接下来要盯什么：政策细则、芯片交付及收入兑现。  内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
+      <itunes:summary>2026-11-21 RSS 新闻日报（单人口播）：估值降温，算力变局 今日判断：AI交易进入兑现检验，政策风险抬升。 1. 华尔街AI板块市值蒸发约4万亿美元。 2. 特朗普拟惩罚赴海外建数据中心的美企。 3. 阿里新芯片拟明年一季度量产，称算力为上代三倍。 接下来要盯什么：政策细则、芯片交付及收入兑现。  内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-rss-2026-11-21.mp3" length="8194988" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-rss-2026-11-21</guid>
+      <itunes:duration>00:17:04</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
