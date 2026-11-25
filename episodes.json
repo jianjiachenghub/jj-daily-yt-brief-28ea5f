@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-25",
+  "title": "2026-11-25 X 精选",
+  "description": "周二美股回吐周一因黄仁勋复职带来的部分涨幅，Anthropic 首次收在发行价下方；国会调查和后续报道仍在继续。OpenAI 公布 GPT-6 蛋白质设计的实验室结合数据，Anthropic 则发布沙箱逃逸评测 Siren，并讨论企业采用人工智能时更关键的是改组织。工程侧，Claude 的小工具可装成桌面应用，MCP 满两周年并支持把技能打包进服务器，Antigravity 和 Python 工具链 uv 也有可核对的进展。",
+  "file": "brief-x-2026-11-25.mp3",
+  "length": 6540140,
+  "duration": "00:13:37",
+  "pubDate": "Wed, 25 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-24",
   "title": "2026-11-24 X 精选",
   "description": "周一，英伟达董事会恢复黄仁勋的总裁、首席执行官和董事职务，英伟达股价收涨 31.48%，纳斯达克综合指数和标普 500 录得 2025 年 4 月以来最好的一个交易日；独立董事调查仍在进行。同期，OpenAI 与思科发布开源 Linux 防护运行时 Shirudo，Anthropic 上线 Claude Ship 测试版，Google DeepMind 用 Gemini 4 智能体改进量子算法并用 Lean 验证，智谱则向编程订阅用户开放 GLM-5.4。以上为信息整理，不构成投资建议。",
