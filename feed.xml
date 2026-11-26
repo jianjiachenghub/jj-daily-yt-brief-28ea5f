@@ -7,7 +7,7 @@
     <description>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</description>
     <language>zh-cn</language>
     <copyright>Jiacheng, AI 整理内容仅供个人收听</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 09:29:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:31:29 +0800</lastBuildDate>
     <itunes:author>Jiacheng</itunes:author>
     <itunes:owner><itunes:name>Jiacheng</itunes:name></itunes:owner>
     <itunes:summary>每个工作日早上，把我订阅的财经、美股、政经类 YouTube 频道当天更新，以及 X 上当天的高质量帖子精选，各做成一段口语化的语音简报，通勤路上听。内容为 AI 整理，仅供信息参考，不构成投资建议。</itunes:summary>
@@ -27,6 +27,20 @@
       <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-x-2026-11-26.mp3" length="6699884" type="audio/mpeg"/>
       <guid isPermaLink="false">jj-daily-brief-x-2026-11-26</guid>
       <itunes:duration>00:13:57</itunes:duration>
+      <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>2026-11-26 每日简报</title>
+      <itunes:title>2026-11-26 每日简报</itunes:title>
+      <link>https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/</link>
+      <description>美股周三在感恩节前走出深V：早盘标普一度跌破7000点，尾盘收回大部分失地。美国经济分析局公布十月个人消费支出物价指数同比3.8%、核心同比3.3%，三季度国内生产总值第二估值上修至年化4.3%。美国贸易代表办公室正式认定14个经济体存在结构性过剩产能，并提出征求公众意见的301加征方案，尚未生效。亚洲周三收盘则把前日反弹吐了回去。</description>
+      <itunes:summary>美股周三在感恩节前走出深V：早盘标普一度跌破7000点，尾盘收回大部分失地。美国经济分析局公布十月个人消费支出物价指数同比3.8%、核心同比3.3%，三季度国内生产总值第二估值上修至年化4.3%。美国贸易代表办公室正式认定14个经济体存在结构性过剩产能，并提出征求公众意见的301加征方案，尚未生效。亚洲周三收盘则把前日反弹吐了回去。</itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 08:30:00 +0800</pubDate>
+      <enclosure url="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/episodes/brief-2026-11-26.mp3" length="5957612" type="audio/mpeg"/>
+      <guid isPermaLink="false">jj-daily-brief-2026-11-26</guid>
+      <itunes:duration>00:12:25</itunes:duration>
       <itunes:image href="https://jianjiachenghub.github.io/jj-daily-yt-brief-28ea5f/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
