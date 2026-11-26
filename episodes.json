@@ -1,6 +1,16 @@
 [
  {
   "slug": "x",
+  "date": "2026-11-26",
+  "title": "2026-11-26 X 精选",
+  "description": "过去约二十四小时：Claude Code 工程师塔里克·希希帕尔宣布加入 OpenAI，Anthropic 首席执行官达里奥·阿莫迪长文回应 Axios 报道；OpenAI 放出矩阵乘法指数为九分之四的预印本，并开始小范围测试私密推理。感恩节前的美股早盘深跌后收回，十月 PCE 同比百分之三点八，第三季度 GDP 上修到百分之四点三；SpaceX 公布亚利桑那超算方案，并向已激活的特朗普账户发放股票。工程上，Anthropic 把 Messages API 迁到 Rust，ChatGPT 桌面应用基线内存下降超过百分之四十，另有 Rex 终端恢复协议、LangChain 知识工厂和谷歌大象金鱼插件等实践。以上为信息整理，不构成投资建议。",
+  "file": "brief-x-2026-11-26.mp3",
+  "length": 6699884,
+  "duration": "00:13:57",
+  "pubDate": "Thu, 26 Nov 2026 09:00:00 +0800"
+ },
+ {
+  "slug": "x",
   "date": "2026-11-25",
   "title": "2026-11-25 X 精选",
   "description": "周二美股回吐周一因黄仁勋复职带来的部分涨幅，Anthropic 首次收在发行价下方；国会调查和后续报道仍在继续。OpenAI 公布 GPT-6 蛋白质设计的实验室结合数据，Anthropic 则发布沙箱逃逸评测 Siren，并讨论企业采用人工智能时更关键的是改组织。工程侧，Claude 的小工具可装成桌面应用，MCP 满两周年并支持把技能打包进服务器，Antigravity 和 Python 工具链 uv 也有可核对的进展。",
